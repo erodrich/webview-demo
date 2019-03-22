@@ -1,0 +1,15 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard para ordenes con vis.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Rodrich",
+  "license": "ISC",
+  "dependencies": {
+    "npm-watch": "^0.4.0",
+    "vis": "^4.21.0"
+  }
+}
